@@ -1,6 +1,6 @@
 # React Vite CI/CD Pipeline Test
 
-A minimal React application built with Vite, designed for testing CI/CD deployment to AWS S3 using GitHub Actions.
+“A fully automated CI/CD pipeline that deploys a static website to AWS S3 using GitHub Actions. Every push to the main branch triggers the workflow to build and sync the latest version of the app to an S3 bucket for serverless hosting.”
 
 ## 🚀 Quick Start
 
