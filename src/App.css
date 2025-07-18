@@ -2,7 +2,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   padding: 2rem;
-  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  background: linear-gradient(135deg, #4facfe, #00f2fe); /* Original gradient */
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -16,7 +16,7 @@
 }
 
 .header h2 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 300;
   margin-bottom: 2rem;
 }
