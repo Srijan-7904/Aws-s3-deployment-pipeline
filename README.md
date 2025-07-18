@@ -1,6 +1,6 @@
 # React Vite CI/CD Pipeline Test
 
-“A fully automated CI/CD pipeline that deploys a static website to AWS S3 using GitHub Actions. Every push to the main branch triggers the workflow to build and sync the latest version of the app to an S3 bucket for serverless hosting.”
+“This project sets up an automated deployment system for a website using GitHub Actions and Amazon S3. Whenever new changes are pushed to the main branch on GitHub, the website automatically updates on AWS S3 without any manual work. This process, called CI/CD (Continuous Integration and Continuous Deployment), makes the development faster, safer, and error-free. It is perfect for hosting simple websites, portfolios, or applications on the cloud in a cost-effective and reliable way.”
 
 ## 🚀 Quick Start
 
