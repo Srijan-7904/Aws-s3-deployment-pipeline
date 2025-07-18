@@ -22,7 +22,7 @@ function App() {
             the power of CI/CD pipelines and cloud technologies. Thank you for being  
             a constant source of knowledge and inspiration throughout this journey!
           </p>
-          <p><strong>— Team Cloud Innovators 🌐</strong></p>
+          <p><strong>— Srijan Jaiswal 🌐</strong></p>
         </section>
       </main>
 
